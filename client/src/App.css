@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.slot-machine {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.slot {
+  width: 50px;
+  height: 50px;
+  border: 5px inset #080632;
+  margin: 5px;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
